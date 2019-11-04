@@ -68,6 +68,9 @@ for_progress(100, process);
 
 Sample code is `/test/test.cpp`
 
+# Authors
+[ysuzuki19](https://github.com/ysuzuki19)
+
 # License
 [MIT](/LICENSE)
 
