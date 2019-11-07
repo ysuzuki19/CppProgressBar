@@ -38,14 +38,14 @@ Add the following line to the top of the program.
 ## 2. compile option
 Run following command to compile.
 
-```sh:
+```sh
 $ g++ main.cpp -I/path/to/CppProgressBar/include/ -o project
 ```
 
 ## 3. symlink
 Run following command.
 
-```sh:
+```sh
 $ ln -s /path/to/CppProgressBar.hpp /usr/local/include/
 ```
 
