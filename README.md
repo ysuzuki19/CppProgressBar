@@ -55,7 +55,7 @@ Definition lambda expression and call `for_progress(loop_number, lambda_func)` l
 - `loop_number` : number of loops
 - `lambda_func` : your process
 
-```cpp:sample_part
+```cpp
 int cnt = 0;
 auto process = [&cnt](std::string& output_string) {
   /*your process*/
