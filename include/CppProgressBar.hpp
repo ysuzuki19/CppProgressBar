@@ -1,5 +1,5 @@
-#ifndef _YSUZUKI_CPP_PROGRESS_BAR_HPP
-#define _YSUZUKI_CPP_PROGRESS_BAR_HPP
+#ifndef YSUZUKI_CPP_PROGRESS_BAR_HPP
+#define YSUZUKI_CPP_PROGRESS_BAR_HPP
 
 #include <iostream>
 #include <string>
